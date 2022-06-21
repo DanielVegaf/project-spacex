@@ -43,7 +43,7 @@ export function LaunchDetails() {
                                     : <p style={{ color: 'red' }}>Failure</p>}
                             </span>
                             <p>
-                                Details: {launch.details}
+                                Details:{launch.details}
                             </p>
 
                             <div>
